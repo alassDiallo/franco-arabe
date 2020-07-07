@@ -1,0 +1,40 @@
+.page-break {
+    page-break-after: always;
+}
+table{
+    align:center;
+    width: 100%;
+    border-collapse: collapse;
+}
+#table{
+    text-align: center;
+}
+#app{
+    margin-top: 50px;
+}
+.directeur{
+    text-align: right;
+    margin-top: 50px;
+}
+.text-center{
+    text-align: center;
+}
+.ecole .annee{
+    display: inline-block;
+
+}
+.annee{
+    text-align: right;
+}
+.img{
+border-radius: 100%;
+}
+input small{
+display: block;
+
+}
+input{
+margin-left: 10px;
+margin-right: 0px;
+margin-top: 7px;
+}
